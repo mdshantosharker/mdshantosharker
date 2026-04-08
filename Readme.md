@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="[https://readme-typing-svg.demolab.com](https://i.ibb.co.com/HpB9dDGx/OK-2.png)font=Fira+Code&weight=700&size=36&pause=1000&color=FF4500&center=true&width=700&lines=Hi!+I+am+Md+Shanto+Sharker;I+am+a+Frontend+Developer;I+am+a+Programmer" ](https://i.ibb.co.com/HpB9dDGx/OK-2.png)alt="Typing SVG" />
+    <img src="https://i.ibb.co/HpB9dDGx/OK-2.png" alt="Banner Image" />
   </a>
 </p>
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF Banner"/>
 </div>
 
 
