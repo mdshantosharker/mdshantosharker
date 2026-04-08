@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Student<br>🌱 I’m currently learning JavaScript or React<br>👯 I’m looking to collaborate on github<br>💬 Ask me about Web Development
+Hi, I’m **Md Shanto Sharker**, a passionate **Front-End & MERN Stack Developer**. I specialize in building **modern, responsive, and user-friendly web applications** using **HTML, CSS, Tailwind CSS, JavaScript, React.js, Next.js, Node.js, Express.js, and MongoDB**. I enjoy turning ideas into interactive digital experiences and constantly improving my skills by exploring new technologies and best practices in web development. I’m currently working on personal projects and looking forward to collaborating on open-source projects. If you want to discuss **web development, front-end design, or MERN stack applications**, feel free to reach out!
 
 
 ## 🌐 Socials:
