@@ -38,7 +38,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
 </div>
-## 📊 GitHub Stats & Trophies
+## 📊 **GitHub Stats & Trophies**
+
+<p align="center">
+  <strong style="font-size:18px; color:#ffcb6b;">mdshantosharker's GitHub Stats</strong>
+</p>
+
 <p align="center">
   <a href="https://github.com/mdshantosharker">
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdshantosharker&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="mdshantosharker's GitHub Stats" />
@@ -46,6 +51,10 @@
   <a href="https://github.com/mdshantosharker">
     <img height="180" src="https://streak-stats.demolab.com/?user=mdshantosharker&theme=monokai&hide_border=true&cache_seconds=86400" alt="mdshantosharker's GitHub Streak" />
   </a>
+</p>
+
+<p align="center">
+  <strong style="font-size:18px; color:#ffcb6b;">Activity Graph</strong>
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshantosharker&theme=monokai&radius=10" alt="mdshantosharker's Activity Graph" />
