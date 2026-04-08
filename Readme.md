@@ -37,7 +37,7 @@ Hi, I’m **Md Shanto Sharker**, a passionate **Front-End & MERN Stack Developer
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="45"/>
 </a>
 
-<a href="mailto:mdshantosharker@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdshantosharker@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="45"/>
 </a>
 
