@@ -1,16 +1,11 @@
-<!-- Banner Section -->
-<div align="center" style="position: relative; width: 100%; max-width: 900px; margin: auto;">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FF4500&center=true&width=700&lines=Hi!+I+am+Md+Shanto+Sharker;I+am+a+Frontend+Developer;I+am+a+Programmer" alt="Typing SVG" />
+  </a>
+</p>
 
-  <!-- Background Banner Image -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
-       alt="Banner Background" 
-       style="width: 100%; border-radius: 15px;" />
-
-  <!-- Overlay Animated Text -->
-  <div style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=FFFFFF&center=true&width=700&lines=Hi!+I+am+Md+Shanto+Sharker;I+am+a+Frontend+Developer;I+am+a+Programmer" 
-         alt="Typing SVG" />
-  </div>
+<div align="center">
+  <img height="250" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 
