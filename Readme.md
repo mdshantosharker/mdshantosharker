@@ -24,6 +24,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3 logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" />
@@ -35,7 +37,5 @@
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="Express logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" />
 </div>
 
