@@ -33,7 +33,7 @@ Hi, I’m **Md Shanto Sharker**, a passionate **Front-End & MERN Stack Developer
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="45"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/md-shanto-sharkar](https://www.linkedin.com/in/md-shanto-sharkar)" target="_blank">
+<a href="https://www.linkedin.com/in/md-shanto-sharkar" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="45"/>
 </a>
 
