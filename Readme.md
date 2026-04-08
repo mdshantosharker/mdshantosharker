@@ -19,7 +19,29 @@ Hi, I’m **Md Shanto Sharker**, a passionate **Front-End & MERN Stack Developer
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdshantosharker5624) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mdshantosharker01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mdshantosharkar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdshantosharker@gmail.com) 
+<div align="center">
+
+<a href="https://discord.gg/mdshantosharker5624" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/mdshantosharker01" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="45"/>
+</a>
+
+<a href="https://www.instagram.com/mdshantosharkar/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="45"/>
+</a>
+
+<a href="[https://www.linkedin.com/in/md-shanto-sharkar](https://www.linkedin.com/in/md-shanto-sharkar)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="45"/>
+</a>
+
+<a href="mailto:mdshantosharker@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="45"/>
+</a>
+
+</div>
 
 
 # 💻 Tech Stack:
