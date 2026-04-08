@@ -38,7 +38,8 @@ Hi, I’m **Md Shanto Sharker**, a passionate **Front-End & MERN Stack Developer
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="MongoDB logo" />
 </div>
-## 📊 **GitHub Stats & Trophies**
+
+<h2 align="start">📊 GitHub Stats & Trophies 🚀</h2>
 
 <p align="center">
   <strong style="font-size:18px; color:#ffcb6b;">mdshantosharker's GitHub Stats</strong>
