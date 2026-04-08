@@ -41,9 +41,11 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/mdshantosharker">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdshantosharker&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="mdshantosharker's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mdshantosharker&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="mdshantosharker's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=mdshantosharker&theme=monokai&hide_border=true&cache_seconds=86400" alt="mdshantosharker's GitHub Streak" width="49%" />
+  <a href="https://github.com/mdshantosharker">
+    <img height="180" src="https://streak-stats.demolab.com/?user=mdshantosharker&theme=monokai&hide_border=true&cache_seconds=86400" alt="mdshantosharker's GitHub Streak" />
+  </a>
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mdshantosharker&theme=monokai&radius=10" alt="mdshantosharker's Activity Graph" />
