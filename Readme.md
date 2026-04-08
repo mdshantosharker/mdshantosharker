@@ -22,7 +22,7 @@ Hi, I’m **Md Shanto Sharker**, a passionate **Front-End & MERN Stack Developer
 <div align="center">
 
 <a href="https://discord.gg/mdshantosharker5624" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="45"/>
+ <img src="https://img.shields.io/badge/Discord-%237289DA?logo=discord&logoColor=white&style=for-the-badge" height="45"/>
 </a>
 
 <a href="https://www.facebook.com/mdshantosharker01" target="_blank">
