@@ -5,7 +5,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I+am+MD+SHANTO+SHARKER;I+am+a+Front-End+Developer;I+am+a+Software+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi,+I+am+MD+SHANTO+SHARKER;Front-End+Developer;Software+Engineer" alt="Typing Animation" />
 </p>
 
 <!-- <div align="center">
